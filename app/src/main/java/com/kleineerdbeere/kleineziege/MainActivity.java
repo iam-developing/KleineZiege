@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 import static android.util.Log.i;
 
+// Simple git hub test
 public class MainActivity extends AppCompatActivity {
 
 
